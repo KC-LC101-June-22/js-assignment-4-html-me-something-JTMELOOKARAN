@@ -1,12 +1,13 @@
-/* Write your CSS here! */
-header { 
-    color: white;  
+header {   
     font-family: 'Times New Roman', 'Didot', 'Georgia', 'Palatino', 'Bookman', serif;
     text-align: center;
     margin-left: 50px;
     margin-right: 50px;
   }
-  
+  #mainHeading{
+    color: red;
+    
+  }
   
   img {
       float: left;
@@ -22,7 +23,7 @@ header {
   body {
       background-color: rgb(227, 234, 227) ;
       font-family: 'Times New Roman', 'Didot', 'Georgia', 'Palatino', 'Bookman', serif;
-      font-size: 150%;
+      font-size: 175%;
       margin-left: 8px;
       margin-right: 8px;
       display: block;
@@ -32,7 +33,7 @@ header {
       color:rgb(149, 132, 132);
       margin-left: 100px;
       margin-right: 100px;
-      text-indent: 50px;
+      text-indent: 75px;
   }
   
   article.College {
@@ -40,6 +41,9 @@ header {
       margin-left: 100px;
       margin-right: 100px;
       text-indent: 50px;
+  }
+  .funParagraph{
+      color: green; 
   }
   
   article.Research {
@@ -60,3 +64,5 @@ header {
       color: rgb(189, 228, 229);
       padding: 100px;;
   }
+
+
