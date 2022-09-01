@@ -24,8 +24,7 @@ header {
       background-color: rgb(227, 234, 227) ;
       font-family: 'Times New Roman', 'Didot', 'Georgia', 'Palatino', 'Bookman', serif;
       font-size: 175%;
-      margin-left: 8px;
-      margin-right: 8px;
+      margin: 8px
       display: block;
   }
   
