@@ -1,1 +1,67 @@
-/* Write your CSS here! */
+header {   
+    font-family: 'Times New Roman', 'Didot', 'Georgia', 'Palatino', 'Bookman', serif;
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+  #mainHeading{
+    color: red;
+    
+  }
+  
+  img {
+      float: left;
+      clear: both;
+      width: 200px;
+      height: 300px;
+      vertical-align: text-top;
+      padding: 10px;
+      margin-left: 10px;
+      margin-right: 10px;
+  }
+  
+  body {
+      background-color: rgb(227, 234, 227) ;
+      font-family: 'Times New Roman', 'Didot', 'Georgia', 'Palatino', 'Bookman', serif;
+      font-size: 175%;
+      margin: 8px
+      display: block;
+  }
+  
+  article.High School {
+      color:rgb(149, 132, 132);
+      margin-left: 100px;
+      margin-right: 100px;
+      text-indent: 75px;
+  }
+  
+  article.College {
+      color:rgb(46, 44, 44);
+      margin-left: 100px;
+      margin-right: 100px;
+      text-indent: 50px;
+  }
+  .funParagraph{
+      color: green; 
+  }
+  
+  article.Research {
+      color: rgb(11, 7, 7);
+      margin-left: 100px;
+      margin-right: 100px;
+      text-indent: 50px;
+  }
+  
+  h3 {
+      color:rgb(4, 25, 26);
+      text-align: left;
+      padding-top: 50px;
+  }
+  
+  footer {
+      text-align: center;
+      color: rgb(189, 228, 229);
+      padding: 100px;;
+  }
+
+
